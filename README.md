@@ -1,3 +1,0 @@
-= Hermes
-
-(Document !? later !)
